@@ -167,4 +167,7 @@ section{
         margin: 0;
         max-width: 100%;
     }
+	.designation{
+        display: block;
+    }
 }
